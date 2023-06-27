@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="29.952961mm"
+   height="28.073702mm"
+   viewBox="0 0 113.20805 106.10533"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="artise_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.394379"
+     inkscape:cx="31.972663"
+     inkscape:cy="48.129668"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="892"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath45">
+      <path
+         d="M 0,500 H 500 V 0 H 0 Z"
+         id="path43" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath69">
+      <path
+         d="M 0,500 H 500 V 0 H 0 Z"
+         id="path67" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath89">
+      <path
+         d="M 0,500 H 500 V 0 H 0 Z"
+         id="path87" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath109">
+      <path
+         d="M 0,500 H 500 V 0 H 0 Z"
+         id="path107" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath133">
+      <path
+         d="M 0,500 H 500 V 0 H 0 Z"
+         id="path131" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-204.96422,-212.38824)">
+    <g
+       id="g15"
+       inkscape:label="5118283"
+       transform="matrix(1.3333333,0,0,-1.3333333,73.451341,807.05721)">
+      <g
+         id="g27"
+         transform="matrix(1,0,-0.02094478,1,179.29922,372.48274)">
+        <path
+           d="M 4.2414806,0 -36.769802,73.519 -42.935494,62.374 -18.194699,33.729 -45.308613,58.083 -52.25096,45.533 -22.20642,10.748 -55.133003,40.323 -66.475306,19.819 -46.690692,-3.087 -68.372694,16.388 -80.79148,-6.06 h 15.862858 l -7.125798,9.49 10.565454,-9.49 h 31.369085 l -26.862958,31.1 34.625515,-31.1 H 3.2245613 l -26.8607353,31.1 z"
+           style="fill:#1d4ed8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05404"
+           id="path29" />
+      </g>
+    </g>
+  </g>
+</svg>
